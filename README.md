@@ -130,6 +130,7 @@ There is an example in [objecttemplate_test.cc](./test/objecttemplate_test.cc)
 <br />
 
  - Before continuing check this https://v8.dev/docs/embed
+ - Tools for dynamic analysis https://v8.github.io/tools/head/
 
 <br />
 
