@@ -130,8 +130,13 @@ There is an example in [objecttemplate_test.cc](./test/objecttemplate_test.cc)
 <br />
 
  - Before continuing check this https://v8.dev/docs/embed
+ 
  - Tools for dynamic analysis https://v8.github.io/tools/head/
-
+ 
+ - HeapObject class ref https://denolib.github.io/v8-docs/classv8_1_1internal_1_1Object.html
+   * e.g. https://gist.github.com/tin-z/3aff709668b36e3fc22c6a7278c639d2
+ 
+ 
 <br />
 
 ### FunctionTemplate
