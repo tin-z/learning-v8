@@ -127,9 +127,11 @@ void Template::Set(v8::Local<Name> name, v8::Local<Data> value, v8::PropertyAttr
 
 There is an example in [objecttemplate_test.cc](./test/objecttemplate_test.cc)
 
+<br />
 
  - Before continuing check this https://v8.dev/docs/embed
 
+<br />
 
 ### FunctionTemplate
 Is a template that is used to create functions and like ObjectTemplate it inherits
