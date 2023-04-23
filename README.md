@@ -135,6 +135,8 @@ There is an example in [objecttemplate_test.cc](./test/objecttemplate_test.cc)
  
  - HeapObject class ref https://denolib.github.io/v8-docs/classv8_1_1internal_1_1Object.html
    * e.g. https://gist.github.com/tin-z/3aff709668b36e3fc22c6a7278c639d2
+
+ - introduction to turbofan https://doar-e.github.io/blog/2019/01/28/introduction-to-turbofan/
  
  
 <br />
